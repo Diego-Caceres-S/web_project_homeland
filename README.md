@@ -13,7 +13,7 @@ Un sitio web responsivo que presenta un viaje épico desde Kentucky a Burundi pa
 ## Tecnologías utilizadas
 
 - **HTML5** semántico
-- **CSS3** con Flexbox
+- **CSS3** con **CSS Grid** y **Flexbox**
 - **Diseño responsivo** con media queries
 - **Metodología BEM** para nomenclatura de clases
 - **Normalize.css** para reset de estilos
@@ -22,7 +22,8 @@ Un sitio web responsivo que presenta un viaje épico desde Kentucky a Burundi pa
 
 - ✅ Diseño completamente responsivo (544px, 1024px, 1280px)
 - ✅ Tipografía Inter integrada
-- ✅ Layout flexible con Flexbox
+- ✅ Layout flexible con **CSS Grid** para galerías y secciones complejas
+- ✅ Componentes organizados con **Flexbox**
 - ✅ Imágenes adaptativas
 - ✅ Citas y bloques de texto estilizados
 - ✅ Optimizado para diferentes dispositivos
