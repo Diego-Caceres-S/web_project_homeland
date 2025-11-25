@@ -19,7 +19,7 @@
 
 .header__title {
   margin-top: 91px;
-  width: 720px;
+  max-width: 720px;
   font-weight: 900;
   font-style: Black;
   font-size: 96px;
@@ -67,7 +67,6 @@
   }
 
   .header__title {
-    max-width: 288px;
     font-size: 40px;
     line-height: 1.1;
     margin-top: 50px;
